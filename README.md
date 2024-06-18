@@ -93,11 +93,12 @@ EDA involved exploring the suicide data to answer key questions, such as:
 ### Data Analysis and Visualization
 
 Filtering: I filtered the data by specific countries, regions, Sex, age groups, etc.
+
 Visualizations: I then created the visualizations using Tableau's drag-and-drop interface. For the project, I utilized;
-World Map: Color-coded map to show global suicide rate distribution.
-Bar Charts: Compare suicide rates by country, gender, or age group.
-Line Charts: Analyze trends in suicide rates over time.
-Scatter Plots: Explore correlations between suicide rates and other factors.
+- World Map: Color-coded map to show global suicide rate distribution.
+- Bar Charts: Compare suicide rates by country, gender, or age group.
+- Line Charts: Analyze trends in suicide rates over time.
+- Scatter Plots: Explore correlations between suicide rates and other factors.
 
 * Building Charts
     * Build Chart
@@ -138,6 +139,7 @@ Given the high suicide burden and the identification of vulnerable age groups, I
 - Social support initiatives: Programs promoting social connection and reducing isolation among middle-aged populations.
 - Targeted interventions in high-risk regions: Developing and implementing suicide prevention strategies specifically designed for the Russian Federation, considering its unique cultural and social context.
 - Further research: Investigating the non-linear relationship between GDP and suicide rates to understand the complex interplay of economic factors with social, cultural, and psychological determinants of suicide.
+
 By implementing these recommendations, we can work towards creating a more comprehensive and effective approach to suicide prevention that addresses the specific needs of individuals and communities most at risk.
 
 ### Data Limitations
